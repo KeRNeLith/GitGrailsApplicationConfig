@@ -17,3 +17,5 @@ features:
   profile:
     edit:
       enabled: true
+  badges:
+    enabled: true
