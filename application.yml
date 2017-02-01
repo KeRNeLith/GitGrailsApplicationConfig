@@ -19,3 +19,5 @@ features:
       enabled: true
   badges:
     enabled: true
+  votes:
+    enabled: true
