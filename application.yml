@@ -1,4 +1,3 @@
-message: testMessage
-audit:
-  config:
-    source: cloud
+message: Mon message de test
+node:
+  subMessage: Message imbrique
