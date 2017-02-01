@@ -1,3 +1,19 @@
 message: Mon message de test
 node:
   subMessage: Message imbrique
+features:
+  posting:
+    answer:
+      enabled: true
+    comment:
+      enabled: true
+  signup:
+    enabled: true
+  signin:
+    enabled: true
+  question:
+    ask:
+      enabled: true
+  profile:
+    edit:
+      enabled: true
